@@ -22,6 +22,10 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript"
         width="40" height="40" title="javascript" />
 </a>
+<a href="https://jquery.com/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg" alt="jquery"
+        width="40" height="40" title="jquery" />
+</a>
 <a href="https://www.typescriptlang.org/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript"
         width="40" height="40" title="typescript" />
@@ -35,10 +39,6 @@
 <a href="https://www.java.com/pt-BR/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="40"
         height="40" title="java" />
-</a>
-<a href="https://jquery.com/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg" alt="jquery"
-        width="40" height="40" title="jquery" />
 </a>
 <a href="https://nodejs.org">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40"
