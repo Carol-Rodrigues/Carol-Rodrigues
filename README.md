@@ -1,7 +1,8 @@
 ## About me :rainbow:
 
 #### :small_orange_diamond: Full Stack Web Developer graduated from @SoulCodeAcademy
-#### :small_orange_diamond: Java Student @SoulCodeAcademy
+#### :small_orange_diamond: Java Web Developer graduated from @SoulCodeAcademy
+#### :small_orange_diamond: Cadete at @42sp
 
 ## Languages, libraries and frameworks :computer: 
 
