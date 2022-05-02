@@ -96,7 +96,7 @@ Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&log
     </a>
     <a href="https://github.com/Carol-Rodrigues">
         <img align="center" height="150em"
-            src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carol-Rodrigues&show_icons=true&include_all_commits=true&count_private=true&layout=compact&theme=onedark" />
+            src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carol-Rodrigues&show_icons=true&include_all_commits=true&hide=html&count_private=true&layout=compact&theme=onedark" />
     </a>
 
 ## Contact me :email:
