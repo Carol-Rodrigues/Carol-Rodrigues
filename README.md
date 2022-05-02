@@ -38,6 +38,11 @@
 
 #### Back-end
 
+<a href="https://devdocs.io/c/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-line.svg" alt="c" width="40"
+        height="40" title="c" />
+</a>
+
 <a href="https://spring.io/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="spring" width="40"
         height="40" title="spring" />
