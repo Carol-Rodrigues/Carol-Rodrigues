@@ -59,6 +59,10 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" alt="npm" width="40"
         height="40" title="npm" />
 </a>
+<a href="https://devdocs.io/bash/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="40"
+        height="40" title="bash" />
+</a>
 
 #### Database
 <a href="https://firebase.google.com/">
