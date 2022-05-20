@@ -2,7 +2,7 @@
 
 #### :small_orange_diamond: Full Stack Web Developer graduated from @SoulCodeAcademy
 #### :small_orange_diamond: Java Web Developer graduated from @SoulCodeAcademy
-#### :small_orange_diamond: Cadete at @42sãopaulo
+#### :small_orange_diamond: Learning C at @42sp
 
 ## Languages, libraries and frameworks :computer: 
 
