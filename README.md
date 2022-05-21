@@ -1,4 +1,5 @@
 ## About me :rainbow:
+### (she / her)
 
 #### :small_orange_diamond: Full Stack Web Developer graduated from @SoulCodeAcademy
 #### :small_orange_diamond: Java Web Developer graduated from @SoulCodeAcademy
