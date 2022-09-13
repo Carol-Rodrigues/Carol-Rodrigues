@@ -2,9 +2,9 @@
 ### (she / her)
 
 #### :small_orange_diamond: Mobile Software Developer (Kotlin / Android) @MercadoLibre
+#### :small_orange_diamond: Software Engineering Student (aka Cadete) at @42sp
 #### :small_orange_diamond: Full Stack Web Developer graduated from @SoulCodeAcademy
 #### :small_orange_diamond: Java Web Developer graduated from @SoulCodeAcademy
-#### :small_orange_diamond: Software Engineering Student (aka Cadete) at @42sp
 
 ## Languages, libraries and frameworks :computer: 
 
